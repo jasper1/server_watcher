@@ -1,9 +1,0 @@
-'''
-Created on Jun 18, 2011
-
-@author: konstantin
-'''
-import os
-
-def loader(path):
-    configs = os.listdir(path)
