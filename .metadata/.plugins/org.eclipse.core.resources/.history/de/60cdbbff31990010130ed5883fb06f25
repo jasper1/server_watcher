@@ -1,0 +1,17 @@
+'''
+Created on Jun 18, 2011
+
+@author: konstantin
+'''
+
+from modules.i_controller import Controller
+
+class Auth(Controller):
+    '''
+    Auth responser
+    '''
+
+    def __init__(self,params):
+        super().__init__(params)
+        print self.params
+        

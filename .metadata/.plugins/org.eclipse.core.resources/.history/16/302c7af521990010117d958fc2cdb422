@@ -1,0 +1,12 @@
+'''
+Created on Jun 18, 2011
+
+@author: konstantin
+'''
+import sys, os
+
+def _main_(argv):
+    conf = os.path.join(os.path.dirname(__file__), 'tutorial.conf')
+
+if __name__ == '__main__':
+    _main_(sys.argv)

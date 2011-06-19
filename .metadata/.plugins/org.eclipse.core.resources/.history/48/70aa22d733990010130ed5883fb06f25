@@ -1,0 +1,21 @@
+'''
+Created on Jun 18, 2011
+
+@author: konstantin
+'''
+import os
+from ConfigParser import ConfigParser
+
+from modules.i_controller import Controller
+
+class Auth(Controller):
+    '''
+    Auth responser
+    '''
+    CONFIG_FILE = os.path.join(os.path.abspath(__file__),'auth.conf')
+    
+    def __init__(self,params):
+        super(Auth, self).__init__(params)
+        config = ConfigParser()
+        config.read(self.CONFIG_FILE)
+        print config

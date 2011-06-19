@@ -1,0 +1,24 @@
+'''
+Created on Jun 18, 2011
+
+@author: konstantin
+'''
+import os
+from ConfigParser import ConfigParser
+
+config_storage = {}
+stored_path = None
+
+class ConfigLoader(object):
+    
+    self.cache = []
+    
+    def __init__(self, path=None):
+        folder = os.listdir(path)
+        for c in folder:
+            if c.endswith('.conf'):
+                print ("Loading %s" % c)
+                config = ConfigParser()
+                config.read(os.path.join(path,c))
+                config_storage[c] = config
+

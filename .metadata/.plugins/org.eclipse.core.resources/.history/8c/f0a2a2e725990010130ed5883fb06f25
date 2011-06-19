@@ -1,0 +1,13 @@
+'''
+Created on Jun 18, 2011
+
+@author: konstantin
+'''
+
+def startup_help():
+    print (__name__)
+    print (__file__)
+    print (__builtins__)
+    print (__package__)
+    print ("Hook server")
+    print ("Usage: %s [config_file]" % __file__)

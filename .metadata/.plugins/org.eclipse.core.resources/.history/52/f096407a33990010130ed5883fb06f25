@@ -1,0 +1,23 @@
+'''
+Created on Jun 18, 2011
+
+@author: konstantin
+'''
+
+class Controller(object):
+    '''
+    Controller prototype class
+    '''
+    errors = []
+    
+    
+    def __init__(self, params):
+        self.params = params
+
+    def set_error(self, error):
+        self.ret = 
+
+    @property
+    def data(self):
+        return self.params
+        

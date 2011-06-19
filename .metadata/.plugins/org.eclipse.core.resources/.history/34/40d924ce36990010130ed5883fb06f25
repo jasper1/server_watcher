@@ -1,0 +1,16 @@
+'''
+Created on Jun 18, 2011
+
+@author: konstantin
+'''
+import os
+from ConfigParser import ConfigParser
+
+configs = []
+
+def loader(path):
+    confs = os.listdir(path)
+    for c in confs:
+        if c.endswith('.conf'):
+            config = ConfigParser()
+            config.read(c)

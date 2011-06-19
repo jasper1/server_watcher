@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;s_hook/src/server.py&apos;" deleteContents="false" description="Delete resource &apos;s_hook/src/server.py&apos;" element1="/s_hook/src/server.py" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1308348895492"/>
+</session>

@@ -1,0 +1,20 @@
+'''
+Created on Jun 18, 2011
+
+@author: konstantin
+'''
+
+class Controller(object):
+    '''
+    Contoller class
+    '''
+
+
+    def __init__(self):
+        '''
+        Constructor
+        '''
+    @property
+    def data(self):
+        return {}
+        

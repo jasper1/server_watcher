@@ -1,0 +1,9 @@
+MODULES_MANAGER_V1
+configs_loader|/Users/konstantin/Documents/servers_watchers/s_hook/src/configs_loader.py
+help|/Users/konstantin/Documents/servers_watchers/s_hook/src/help.py
+main|/Users/konstantin/Documents/servers_watchers/s_hook/src/main.py
+modules.__init__|/Users/konstantin/Documents/servers_watchers/s_hook/src/modules/__init__.py
+modules.auth|/Users/konstantin/Documents/servers_watchers/s_hook/src/modules/auth.py
+modules.i_controller|/Users/konstantin/Documents/servers_watchers/s_hook/src/modules/i_controller.py
+responser|/Users/konstantin/Documents/servers_watchers/s_hook/src/responser.py
+tests.__init__|/Users/konstantin/Documents/servers_watchers/s_hook/src/tests/__init__.py

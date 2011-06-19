@@ -1,0 +1,21 @@
+'''
+Created on Jun 18, 2011
+
+@author: konstantin
+'''
+import sys, os
+from help import startup_help
+
+def _main_(argv):
+    # Show startup help
+    startup_help()
+    
+    conf_file = "server.conf"
+    if len(argv) > 1:
+        conf_file = argv[0]
+        
+        
+    conf = os.path.join(os.path.dirname(__file__), 'server.conf')
+
+if __name__ == '__main__':
+    _main_(sys.argv)

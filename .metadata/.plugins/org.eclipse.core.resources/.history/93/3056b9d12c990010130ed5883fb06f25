@@ -1,0 +1,26 @@
+'''
+Created on Jun 18, 2011
+
+@author: konstantin
+'''
+
+import json
+import cherrypy
+
+from controller import Controller
+
+
+class Responser(object):
+    # Main page
+    def index(self, **kwarg):
+        print kwarg
+        params = []
+        return json.dump(Controller(params).data)
+    index.exposed = True
+    
+    
+    # Default page dummy
+    def default(self, user):
+        print cherrypy.request.show_tracebacks
+        return "Fuck off, ebany hacker!"
+    default.exposed = True

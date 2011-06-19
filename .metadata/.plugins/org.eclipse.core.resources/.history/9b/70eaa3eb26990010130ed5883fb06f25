@@ -1,0 +1,11 @@
+'''
+Created on Jun 18, 2011
+
+@author: konstantin
+'''
+import os
+import __main__
+
+def startup_help():
+    print ("Hook server")
+    print ("Usage: %s [config_file]" % __main__.__file__)

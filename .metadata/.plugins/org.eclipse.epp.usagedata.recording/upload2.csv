@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+resolved,bundle,com.python.pydev,2.1.0.2011052613,"com.python.pydev",1308343727810
+resolved,bundle,com.python.pydev.fastparser,2.1.0.2011052613,"com.python.pydev.fastparser",1308343727812
+resolved,bundle,com.python.pydev.debug,2.1.0.2011052613,"com.python.pydev.debug",1308343727815
+resolved,bundle,com.python.pydev.analysis,2.1.0.2011052613,"com.python.pydev.analysis",1308343727821
+resolved,bundle,com.python.pydev.refactoring,2.1.0.2011052613,"com.python.pydev.refactoring",1308343727827
+resolved,bundle,com.python.pydev.codecompletion,2.1.0.2011052613,"com.python.pydev.codecompletion",1308343727829
+resolved,bundle,org.eclipse.wst.validation.ui,1.2.204.v201004150700,"org.eclipse.wst.validation.ui",1308343727849
+resolved,bundle,org.eclipse.wst.server.preview.adapter,1.1.0.v20090311b,"org.eclipse.wst.server.preview.adapter",1308343727854
+resolved,bundle,org.eclipse.wst.server.http.core,1.0.200.v20090429,"org.eclipse.wst.server.http.core",1308343727857
+resolved,bundle,org.eclipse.wst.server.http.ui,1.0.200.v20090113,"org.eclipse.wst.server.http.ui",1308343727868
+resolved,bundle,org.eclipse.wst.jsdt.manipulation,1.0.200.v201004150600,"org.eclipse.wst.jsdt.manipulation",1308343727882
+resolved,bundle,org.eclipse.wst.jsdt.ui,1.1.5.v201104070556,"org.eclipse.wst.jsdt.ui",1308343727920
+resolved,bundle,org.eclipse.wst.jsdt.debug.ui,1.0.4.v201103310001,"org.eclipse.wst.jsdt.debug.ui",1308343727926
+resolved,bundle,org.eclipse.wst.jsdt.support.ie,1.0.300.v201004150600,"org.eclipse.wst.jsdt.support.ie",1308343727942
+resolved,bundle,org.eclipse.wst.jsdt.support.firefox,1.0.300.v201004150600,"org.eclipse.wst.jsdt.support.firefox",1308343727944
+resolved,bundle,org.eclipse.wst.jsdt.debug.rhino,1.0.1.v201008170101,"org.eclipse.wst.jsdt.debug.rhino",1308343727946
+resolved,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.3.v201012020600,"org.eclipse.wst.common.emfworkbench.integration",1308343727949
+resolved,bundle,org.eclipse.wst.xml.core,1.1.504.v201104070043,"org.eclipse.wst.xml.core",1308343727952
+resolved,bundle,org.eclipse.wst.xml.ui,1.1.104.v201103021532,"org.eclipse.wst.xml.ui",1308343727971
+resolved,bundle,org.eclipse.wst.standard.schemas,1.0.301.v201103302013,"org.eclipse.wst.standard.schemas",1308343727974
+resolved,bundle,org.eclipse.wst.css.core,1.1.403.v201103021532,"org.eclipse.wst.css.core",1308343727977
+resolved,bundle,org.eclipse.wst.xsd.core,1.1.503.v201011121919,"org.eclipse.wst.xsd.core",1308343728015
+resolved,bundle,org.eclipse.wst.xsd.ui,1.2.305.v201104132127,"org.eclipse.wst.xsd.ui",1308343728024
+resolved,bundle,org.eclipse.wst.xml.xpath.core,1.1.1.v201007022358,"org.eclipse.wst.xml.xpath.core",1308343728025
+resolved,bundle,org.eclipse.wst.xsl.core,1.1.0.v201004290328,"org.eclipse.wst.xsl.core",1308343728042
+resolved,bundle,org.eclipse.wst.xsl.launching,1.0.100.v201004290328,"org.eclipse.wst.xsl.launching",1308343728045
+resolved,bundle,org.eclipse.wst.xsl.jaxp.launching,1.0.100.v201004290328,"org.eclipse.wst.xsl.jaxp.launching",1308343728046
+resolved,bundle,org.eclipse.wst.xsl.debug.ui,1.0.101.v201102111830,"org.eclipse.wst.xsl.debug.ui",1308343728060
+resolved,bundle,org.eclipse.wst.xml.xpath.ui,1.1.2.v201101212242,"org.eclipse.wst.xml.xpath.ui",1308343728073
+resolved,bundle,org.eclipse.wst.xsl.ui,1.1.1.v201009091745,"org.eclipse.wst.xsl.ui",1308343728085
+resolved,bundle,org.eclipse.wst.xsl.jaxp.debug.ui,1.0.100.v201004290328,"org.eclipse.wst.xsl.jaxp.debug.ui",1308343728087
+resolved,bundle,org.eclipse.wst.xsl.exslt.ui,1.0.0.v201006012005,"org.eclipse.wst.xsl.exslt.ui",1308343728088
+resolved,bundle,org.eclipse.wst.dtd.core,1.1.401.v201101122255,"org.eclipse.wst.dtd.core",1308343728096
+resolved,bundle,org.eclipse.wst.dtd.ui,1.0.500.v201004290328,"org.eclipse.wst.dtd.ui",1308343728107
+resolved,bundle,org.eclipse.wst.common.modulecore,1.2.6.v201103310300,"org.eclipse.wst.common.modulecore",1308343728109
+resolved,bundle,org.eclipse.wst.web,1.1.403.v201103081400,"org.eclipse.wst.web",1308343728111
+resolved,bundle,org.eclipse.wst.html.core,1.1.405.v201104191549,"org.eclipse.wst.html.core",1308343728113
+resolved,bundle,org.eclipse.wst.jsdt.web.core,1.0.305.v201103170144,"org.eclipse.wst.jsdt.web.core",1308343728114
+resolved,bundle,org.eclipse.wst.css.ui,1.0.502.v201101122002,"org.eclipse.wst.css.ui",1308343728123
+resolved,bundle,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.ui",1308343728137
+resolved,bundle,org.eclipse.wst.web.ui,1.1.400.v201004141630,"org.eclipse.wst.web.ui",1308343728139
+resolved,bundle,org.eclipse.wst.jsdt.web.ui,1.0.304.v201012160349,"org.eclipse.wst.jsdt.web.ui",1308343728157
+resolved,bundle,org.eclipse.wst.common.modulecore.ui,1.0.4.v201101101700,"org.eclipse.wst.common.modulecore.ui",1308343728171
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.200.v201004150600,"org.eclipse.wst.jsdt.manipulation",1308343728186
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.3.v201012020600,"org.eclipse.wst.common.emfworkbench.integration",1308343728186
+error,log,,,"Unhandled event loop exception",1308343728247
+error,log,,,"Unhandled event loop exception",1308343728325
+closed,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1308343728427
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343728529
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728530
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728531
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343728531
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728532
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728532
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343728533
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728534
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728534
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343728535
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728535
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728536
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343728537
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728537
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728538
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343728560
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728560
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728560
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343728561
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728562
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728562
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343728563
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728563
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728564
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343728564
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728565
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728565
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343728566
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728566
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728567
+error,log,,,"An internal error occurred during: ""Decoration Calculation"".",1308343728677
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343728985
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728986
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728987
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343728988
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728988
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728989
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343728990
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728990
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728991
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343728992
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728992
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728994
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343728995
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728996
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728996
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343728997
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728998
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343728999
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729000
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729000
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729000
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729001
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729002
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729002
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729003
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729003
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729004
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729005
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729005
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729005
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729273
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729273
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729274
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729275
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729275
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729276
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729276
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729277
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729277
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729278
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729278
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729278
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729279
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729279
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729279
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729280
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729280
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729281
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729282
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729282
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729282
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729283
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729283
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729284
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729284
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729285
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729285
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729285
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729286
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729286
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729460
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729461
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729461
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729462
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729463
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729463
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729464
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729464
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729465
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729466
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729466
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729467
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729468
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729468
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729469
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729470
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729470
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729470
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729471
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729471
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729472
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729473
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729473
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729473
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729475
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729475
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729475
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729476
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729476
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729477
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729632
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729632
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729633
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729634
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729634
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729634
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729635
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729635
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729636
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729637
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729637
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729637
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729638
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729638
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729639
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729640
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729640
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729640
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729641
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729641
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729641
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729642
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729642
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729642
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729643
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729644
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729644
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729645
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729645
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729645
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729724
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729724
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729725
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729726
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729726
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729726
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729727
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729727
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729727
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729728
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729728
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729728
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729729
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729729
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729729
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729730
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729730
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729731
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729731
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729731
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729732
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729732
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729733
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729733
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729733
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729734
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729734
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729734
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729735
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729735
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729851
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729851
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729852
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729853
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729853
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729854
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729855
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729855
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729855
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729857
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729857
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729857
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729859
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729859
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729860
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729861
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729862
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729862
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729863
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729863
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729864
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729865
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729865
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729866
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729867
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729867
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729868
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729869
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729869
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729869
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729979
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729980
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729980
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729981
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729981
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729982
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729983
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729983
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729983
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729984
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729984
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729985
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729986
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729986
+error,log,,,"Failed to update callback: org.eclipse.ui.navigate.showIn",1308343729987
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1308343729988

@@ -1,0 +1,37 @@
+'''
+Created on Jun 18, 2011
+
+@author: konstantin
+'''
+
+import json
+import cherrypy
+
+from controller import Controller
+
+
+class Responser(object):
+    exposed = True
+    
+#    def GET(self):
+#        return "some content"
+#
+#    def POST(self, name, password):
+#        # do something
+#        return "created"
+    
+    # Main page
+    def index(self, **kwargs):
+        print kwarg
+        print cherrypy.request.params
+        params = []
+        cherrypy.response.headers['Content-Type'] = ' application/json'
+        return json.dump(Controller(params).data)
+    index.exposed = True
+#    
+#    
+#    # Default page dummy
+#    def default(self):
+#        print cherrypy.request.show_tracebacks
+#        return "Fuck off, ebany hacker!"
+#    default.exposed = True

@@ -1,0 +1,30 @@
+'''
+Created on Jun 18, 2011
+
+@author: konstantin
+'''
+
+import json
+import cherrypy
+
+from modules.auth import Auth
+
+
+class Responser(object):
+    
+    # Main page
+    def index(self, **kwargs):
+        cherrypy.response.headers['Content-Type'] = ' application/json'
+        return json.dumps(Auth(kwargs).done())
+    index.exposed = True
+    
+    # Reload configs
+    def reload_confs(self):
+        pass
+    reload_confs.exposed = True
+    
+    # Default page dummy
+    def default(self):
+        print cherrypy.request.show_tracebacks
+        return "Fuck off, ebany hacker!"
+    default.exposed = True

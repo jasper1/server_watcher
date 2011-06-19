@@ -1,0 +1,18 @@
+'''
+Created on Jun 18, 2011
+
+@author: konstantin
+'''
+
+class Controller(object):
+    '''
+    Controller prototype class
+    '''
+    
+    def __init__(self, params):
+        self.params = params
+
+    @property
+    def data(self, ret):
+        return self.params
+        
