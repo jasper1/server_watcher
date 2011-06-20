@@ -15,8 +15,8 @@ class Controller(object):
     configs_cache = None
     
     def __init__(self, params):
-        c = ConfigLoader()
-        self.configs_cache = c.cache 
+#        c = ConfigLoader()
+#        self.configs_cache = c.cache 
         self.params = params
         self.errors = []
     

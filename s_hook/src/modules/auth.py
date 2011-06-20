@@ -3,13 +3,6 @@ Created on Jun 18, 2011
 
 @author: konstantin
 '''
-import __main__
-import os
-
-from ConfigParser import ConfigParser
-
-#from configs_loader import config_storage 
-
 from modules.i_controller import Controller
 
 
@@ -18,7 +11,6 @@ class Auth(Controller):
     Auth responser
     '''
     
-    CONFIG_FILE = os.path.join(os.path.dirname(__main__.__file__),'auth.conf')
     good_ips = []
     bad_ips  = []
     

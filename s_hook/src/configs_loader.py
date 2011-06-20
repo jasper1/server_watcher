@@ -21,6 +21,7 @@ class ConfigLoader(Singleton):
     def __init__(self, path=None):
         if not path is None:
             self.path =  path
+#        print "PATH: ",self.path
             
 
     def load(self):

@@ -7,7 +7,7 @@ import sys, os
 import cherrypy
 
 from help import startup_help
-from configs_loader import ConfigLoader
+#from configs_loader import ConfigLoader
 from responser import Responser
 
 def _main_(argv):
@@ -22,8 +22,8 @@ def _main_(argv):
     conf = os.path.join(os.path.dirname(__file__), conf_file)
     
     # Loading configs
-    c = ConfigLoader(os.path.dirname(__file__))
-    c.load()
+#    c = ConfigLoader(os.path.dirname(__file__))
+#    c.load()
     
     # Run CherryPy server
     print ("Server running...")
