@@ -1,0 +1,184 @@
+body {
+    background: #454545;
+}
+.wr {
+    background: #fff;
+    width: 960px;
+    margin: 0 auto;
+    box-shadow: 0px 2px 19px #000;
+    -moz-box-shadow: 0px 2px 19px #000;
+    -webkit-box-shadow: 0px 2px 19px #000;
+    /*padding:  20px*/
+}
+.header {
+    background: #DFDFDF ;
+    /*padding: 20px;*/
+    padding-top: 7px;
+    color: #fff;
+    font-size: 24px;
+    background-image: -webkit-linear-gradient(top, #6d6d6d, #525252);
+    background-image: -moz-linear-gradient(top, #6d6d6d, #525252);
+    /*background-image: -moz-linear-gradient(center bottom, #234100 26%, #467808 63%, #5FA805 100%);*/
+
+}
+.header div {
+    padding: 20px;
+    margin-left: 20px;
+    padding-left: 72px;
+    background: url("../img/logo.png") no-repeat;
+    color: #DDD;
+    text-shadow: #000 0px -1px 0px;
+}
+.content {
+    /*padding:  20px;*/
+}
+
+.nbr {
+    clear: both;
+}
+
+.i {
+    /*display: inline-block;*/
+    /*float: left;*/
+    /*width: 400px;*/
+    background: #fff;
+    color: #000;
+    /*padding: 5px;*/
+    /*margin: 20px;*/
+    height: 150px;
+    /*box-shadow: 0px 2px 9px #b5b5b5;*/
+    /*-moz-box-shadow: 0px 2px 9px #b5b5b5;*/
+    /*-webkit-box-shadow: 0px 2px 9px #b5b5b5;*/
+    border:  0px solid transparent;
+    /*border-bottom:  1px solid #454545;*/
+    /*border-radius: 12px;*/
+    background-image: -webkit-linear-gradient(top, #F9F9F9, whiteSmoke);
+    /*margin-bottom: 10px;*/
+    /*background: #4f4f4f*/
+}
+
+
+.h.attention {
+    background: url("../img/warning-tape-pattern.png") 0 -30px repeat;
+    border:  transparent;
+    /*color: #fff;*/
+    /*text-shadow: #000 -1px -1px 0px;*/
+    border-bottom: 1px solid #8f9183;
+}
+
+.h.attention h3
+{
+    /*color: #888888;*/
+    color: #234100;
+    display: inline-block;
+    background-color: #ffc500;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 20px;
+    /*border-radius: 10px;*/
+    box-shadow: inset #ff9e21 0 0 4px;
+    /*text-shadow: #000000 0px 0px 2px;*/
+    text-shadow: none;
+}
+
+.h {
+    background-image: -webkit-linear-gradient(top, #F9F9F9, #ECECEC);
+    
+    border: 1px solid #DFDFDF;
+    padding: 0px;
+    color: #999;
+
+    /*padding: 20px;*/
+    /*background: red;*/
+    /*border-radius: 12px 12px 0 0;*/
+}
+
+.h h3 {
+    padding: 0;
+    margin:  0;
+    font-weight: bold;
+    font: 14pt Georgia, sans-serif;
+
+    text-shadow: #ffffff 0 1px 0;
+    font-weight: normal;
+
+    /*color:#f5f5f5;*/
+    display: inline-block;
+    /*background-color: #aaaaaa;*/
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 20px;
+    
+    /*box-shadow: inset black 0 0 4px;*/
+}
+
+.c {
+    padding: 10px;
+    height: 300px;
+}
+
+.chart {
+    /*display: inline-block;*/
+    float: left;
+    width: 70px;
+    margin: 10px;
+}
+.chart-wr {
+    width: 360px;
+    /*margin:  0 auto;*/
+}
+.text-data {
+    width: 300px;
+    padding: 20px;
+    float: right;
+    font-size: 8pt;
+    color: #999;
+    text-align: right;
+}
+
+.text-data span {
+    font-size: 12pt;
+    color: #333;
+    text-shadow: white 0 1px 0;
+}
+.avr {
+    font-weight: bold;
+}
+
+.offline {
+    background: #bbbbbb;
+}
+.red {
+    background-color: #ff2121;
+    color: #000;
+}
+.orange {
+    background-color: #ff9e21;
+}
+.yellow {
+    background-color: #ffe221;
+
+}
+.green {
+    background-color: #47b100;
+
+    color: green;
+}
+.status {
+    float: left;
+    margin: 4px 16px 0 8px;
+    box-shadow: inset #888 0 0 6px;
+    width: 16px;
+    height: 16px;
+    border-radius: 8px;
+}
+.unavailable {
+    text-align: center;
+    padding-top: 50px;
+    color: #aaa;
+    font-size: 16pt;
+}
+.attention-body {
+    background-image: -webkit-linear-gradient(top, #ffd128, #ffdd61);
+
+}
