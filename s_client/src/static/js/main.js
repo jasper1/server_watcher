@@ -28,10 +28,10 @@ function processData() {
                     data.setValue(0, 0, i);
                     data.setValue(0, 1, v);
 
-                    var chart = new google.visualization.Gauge(document.getElementById('i' + index + i));
-                    var options = {width: 80, height: 120, redFrom: 90, redTo: 100,
-                        yellowFrom:75, yellowTo: 90, minorTicks: 5};
-                    chart.draw(data, options);
+                    //var chart = new google.visualization.Gauge(document.getElementById('i' + index + i));
+                    //var options = {width: 100, height: 100, redFrom: 90, redTo: 100,
+                    //    yellowFrom:75, yellowTo: 90, minorTicks: 5};
+                    //chart.draw(data, options);
 
                 } else if (i == 'load_avg') {
                     $('#data-avg' + index).html(v['1'] + ' / ' + v['2'] + ' / ' + v['3'])
@@ -115,7 +115,7 @@ function makeChart(d) {
 
 
                 var chart = new google.visualization.Gauge(document.getElementById('i' + index + i));
-                var options = {width: 80, height: 120, redFrom: 90, redTo: 100,
+                var options = {width: 100, height: 100, redFrom: 90, redTo: 100,
                     yellowFrom:75, yellowTo: 90, minorTicks: 5};
                 chart.draw(data, options);
 

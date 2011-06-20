@@ -25,7 +25,7 @@ body {
     padding: 20px;
     margin-left: 20px;
     padding-left: 72px;
-    background: url("../img/logo.png") no-repeat;
+    background: url("../img/logo_2.png") no-repeat;
     color: #DDD;
     text-shadow: #000 0px -1px 0px;
 }
@@ -59,11 +59,12 @@ body {
 
 
 .h.attention {
-    background: url("../img/warning-tape-pattern.png") 0 -30px repeat;
+    background: url("../img/warning-tape-pattern.png") 0 -91px repeat-x;
+    background-color: #ffc500;
     border:  transparent;
     /*color: #fff;*/
     /*text-shadow: #000 -1px -1px 0px;*/
-    border-bottom: 1px solid #8f9183;
+    
 }
 
 .h.attention h3
@@ -71,12 +72,14 @@ body {
     /*color: #888888;*/
     color: #234100;
     display: inline-block;
-    background-color: #ffc500;
-    padding-bottom: 2px;
+    
+    padding:0px;
+    padding-top:7px;
+    padding-bottom:5px;
     padding-left: 10px;
     padding-right: 20px;
     /*border-radius: 10px;*/
-    box-shadow: inset #ff9e21 0 0 4px;
+    
     /*text-shadow: #000000 0px 0px 2px;*/
     text-shadow: none;
 }
@@ -88,7 +91,8 @@ body {
     padding: 0px;
     color: #999;
 
-    /*padding: 20px;*/
+
+    padding: 3px;
     /*background: red;*/
     /*border-radius: 12px 12px 0 0;*/
 }
@@ -97,7 +101,7 @@ body {
     padding: 0;
     margin:  0;
     font-weight: bold;
-    font: 14pt Georgia, sans-serif;
+    font: 13pt sans-serif;
 
     text-shadow: #ffffff 0 1px 0;
     font-weight: normal;
@@ -114,14 +118,13 @@ body {
 
 .c {
     padding: 10px;
-    height: 300px;
 }
 
 .chart {
     /*display: inline-block;*/
     float: left;
-    width: 70px;
-    margin: 10px;
+    /*width: 70px;
+    margin: 10px;*/
 }
 .chart-wr {
     width: 360px;
