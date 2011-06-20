@@ -1,6 +1,6 @@
 {
     "1": {
-        "server_ip": "192.168.1.18",
+        "server_ip": "192.168.1.232",
         "server_name": "Debug Server 1",
         "memory": 15,
         "cpu": 33,
@@ -12,7 +12,7 @@
             "2": 5,
             "3": 8
         },
-        "status": 2
+        "status": 0
     },
     "2": {
         "server_ip": "192.168.1.85",

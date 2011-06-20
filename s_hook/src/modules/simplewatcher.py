@@ -31,6 +31,8 @@ class SimpleWatcher(Controller):
         processes.sort(key=lambda x: x.get_cpu_times())
         processes.reverse()
         for p in processes[:10]:
+            print p.name
+            print p.get_
             f_processes.append((p.name, p.get_cpu_times(), p.get_memory_percent(),time.ctime(p.create_time),))
         
         server['processes'] = f_processes

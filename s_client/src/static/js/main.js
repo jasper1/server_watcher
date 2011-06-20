@@ -59,8 +59,14 @@ function processData() {
                     }
 
                     $('#chart_div' + index).closest('.i').find('.status').removeClass('offline red orange yellow green').addClass(class);
+//                    $('.h.attention').removeClass('attention');
+//                    $('.red').closest('.h').addClass('attention');
+                    
+                    
                     $('.h.attention').removeClass('attention');
+                    $('.i.attention-body').removeClass('attention-body');
                     $('.red').closest('.h').addClass('attention');
+                    $('.red').closest('.i').addClass('attention-body');
                 }
                 ;
             });
