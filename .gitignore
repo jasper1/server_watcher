@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+.project
+.pydevproject
+.DS_Store
+.DS_Store/*
