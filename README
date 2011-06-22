@@ -16,11 +16,11 @@ Dependencies that **must** be meet to use the application:
 Usage
 ------------
 On monitoring servers:
-cd s_hook/src
+cd node/src
 python main.py
 
 On master server:
-cs s_client/src
+cs client/src
 python main.py
 
 On your browser:
